@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hello my name is Juan and im from Argentina im a linux entusiast i take most of my inspiration from tinyopsec and tony banters</h2>
+<h2 data-importer="text" align="left">Hello my name is Juan and im from Argentina, im a linux entusiast i take most of my inspiration from tinyopsec and tony banters.</h2>
 
 ###
 
